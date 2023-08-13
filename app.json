@@ -4,10 +4,10 @@
     "slug": "ecomm",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/images/gt.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/images/gt.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
